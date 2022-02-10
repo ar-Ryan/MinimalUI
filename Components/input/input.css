@@ -1,0 +1,19 @@
+.input{
+    padding: 0.5rem 1rem;
+    border: 2px double rgb(0, 0, 0);
+}
+
+.input-success{
+    padding: 0.5rem 1rem;
+    border: 2px double rgb(0, 119, 0);
+}
+
+.input-error{
+    padding: 0.5rem 1rem;
+    border: 2px double rgb(255, 0, 0);
+}
+
+.input-warning{
+    padding: 0.5rem 1rem;
+    border: 2px double rgb(255, 166, 0);
+}
