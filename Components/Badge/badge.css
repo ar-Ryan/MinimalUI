@@ -1,0 +1,28 @@
+.badge{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border-radius: 50%;
+    color: white;
+    background-color: red;
+    right: 0.2em;
+    bottom: 0.2em;
+    width: 1.2em;
+    height: 1.2em;
+    padding: 0.2em;
+    overflow: visible;
+}
+
+.icon-box{
+    width: 2rem;
+    height: 2rem;
+    font-size: 8px;
+    position: relative;
+    overflow: hidden;
+}
+
+.icon{
+    width: 2rem;
+    height: 2rem
+}
