@@ -1,0 +1,80 @@
+.avatar-xl-box{
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+    overflow: visible;
+    margin: 0.5rem;
+    position: relative;
+
+}
+
+.avatar-l-box{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    overflow: visible;
+    margin: 0.5rem;
+    position: relative;
+    font-size: 12px;
+
+}
+
+.avatar-s-box{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    overflow: visible;
+    margin: 0.5rem;
+    position: relative;
+    font-size: 8px;
+
+}
+
+.avatar-xs-box{
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    overflow: visible;
+    margin: 0.5rem;
+    position: relative;
+
+}
+
+.avatar-xl{
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+}
+
+.avatar-l{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+
+}
+
+.avatar-s{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+
+}
+
+.avatar-xs{
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+
+}
+
+.online{
+    border: 4px double rgb(102, 201, 102);
+}
+
+.offline{
+    border: 4px double grey;
+}
+
+.sleep{
+    border: 4px double orange;
+}
