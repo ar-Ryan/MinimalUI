@@ -1,0 +1,27 @@
+.alert-success{
+    background-color: rgb(203, 235, 203);
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 2px solid rgb(20, 116, 20);
+}
+
+.alert-error{
+    background-color: rgb(241, 182, 202);
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 2px solid rgb(211, 37, 37);
+}
+
+.alert-warning{
+    background-color: rgb(236, 221, 193);
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 2px solid rgb(233, 165, 19);
+}
+
+.alert-info{
+    background-color: rgb(193, 239, 247);
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 2px solid rgb(31, 79, 238)
+}
