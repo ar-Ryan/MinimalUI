@@ -1,0 +1,43 @@
+.button-primary{
+    border: none;
+    cursor: pointer;
+    background-color: rgb(255, 218, 7);
+    padding: 0.5rem;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.button-link{
+    text-decoration: none;
+    cursor: pointer;
+    background-color: rgb(44, 128, 197);
+    color: white;
+    padding: 0.25rem 1rem;
+    border-radius: 3px;
+}
+
+.button-icon{
+    cursor: pointer;
+}
+
+.button-floating{
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    border-radius: 50%;
+    margin: 0.25rem;
+    width: 3rem;
+    height: 3rem;
+    background-color: rgb(255, 216, 89);
+    box-shadow: 1px 1px 3px 0px rgb(133, 133, 133);
+    
+}
+
+.floating-img{
+    width: 0.75rem;
+}
+
+.icon{
+    width: 2rem;
+    height: 2rem
+}
