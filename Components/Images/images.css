@@ -1,0 +1,15 @@
+.responsive-image{
+    width: 100%;
+    height: auto;
+}
+
+.responsive-imagediv{
+    width: 800px;
+    height: 650px;
+}
+
+.circular-image{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
