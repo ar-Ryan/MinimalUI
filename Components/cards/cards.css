@@ -1,0 +1,91 @@
+.card-vertical{
+    background-color: rgb(252, 252, 252);
+    border-radius: 2px;
+    width: 15rem;
+    height: 26.5rem;
+    box-shadow: 5px 5px 10px 0px rgb(151, 151, 151);
+    margin: 1rem;
+    position: relative;
+    cursor: pointer;
+}
+
+.card-img-vertical{
+    width: 15rem;
+    height: auto;
+}
+
+.card-heading{
+    font-weight: 500;
+    margin: 0 0rem 0 0.5rem;
+}
+
+.card-heading-2{
+    font-size: 0.65rem;
+    font-weight: 300;
+    margin: 0rem 0 0 0.5rem;
+    color: rgb(77, 77, 77);
+}
+
+.addtocart{
+    background-color: rgb(38, 40, 61);
+    text-align: center;
+    color: white;
+    width: 10rem;
+    padding: 0.5rem;
+    margin: auto;
+    border-radius: 3px;
+}
+
+.price{
+    margin: 0.2rem 0 0.75rem 0.5rem;
+}
+
+.card-badge{
+    position: absolute;
+    background-color: #ffa600;
+    color: rgb(38, 40, 61);
+    font-weight: 400;
+    color: white;
+    top: 0px;
+    left: 0px;
+    width: 6rem;
+    text-align: center;
+    padding: 0 0 0.2rem 0;
+}
+
+.card-horizontal{
+    background-color: rgb(252, 252, 252);
+    border-radius: 2px;
+    box-shadow: 5px 5px 10px 0px rgb(151, 151, 151);
+    width: 28rem;
+    height: 15rem;
+    overflow: hidden;
+    margin: 1rem;
+    display: flex;
+    position: relative;
+    cursor: pointer;
+}
+
+.card-img-horizontal{
+    height: 15rem;
+}
+
+.card-horizontal-right-section{
+    height: 15rem;
+    width: 16rem;
+    padding: 0.5rem;
+
+}
+
+.addtocart-horizontal{
+    background-color: rgb(38, 40, 61);
+    text-align: center;
+    color: white;
+    width: 10rem;
+    padding: 0.5rem;
+    margin: auto;
+    border-radius: 3px;
+    position: absolute;
+    top: 70%;
+    right: 10%;
+}
